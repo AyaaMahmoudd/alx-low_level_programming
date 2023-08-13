@@ -8,7 +8,7 @@
  * Return: always 0 (success).
 */
 
-int main(print alphabet)
+int main()
 {	char ch = 'a';
 
 	while (ch <= 'z')
