@@ -5,7 +5,7 @@
  * only using _putchar twice
  *
  * Return: Always 0 (success)
- */
+*/
 
 void print_numbers(void)
 {
